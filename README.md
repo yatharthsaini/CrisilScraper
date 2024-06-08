@@ -15,3 +15,6 @@ TO run the script for the crisil scraping
 
 
 Monitor the logs..........
+
+Problem: I'm still unable to figure out how to get the clickable url for the company rationale report 
+getting openRRDocWindow() when using href. Still figuring this out.
